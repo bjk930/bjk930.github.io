@@ -11,6 +11,7 @@ toc: true
 <br/>
 
 ## man
+
 <br/>
 도움말을 보여준다.
 <br/>
@@ -26,6 +27,7 @@ $ man ls
 <hr/>
 
 ## pwd (print working directory)
+
 <br/>
 현재 위치 경로를 나타낸다.
 <br/>
@@ -41,6 +43,7 @@ $ pwd
 <hr/>
 
 ## ls (list)
+
 <br/>
 현재 디렉토리에 있는 파일이나 디렉토리의 이름을 나타낸다.
 <br/>
@@ -61,6 +64,7 @@ $ ls -al
 <hr/>
 
 ## cd (change directory)
+
 <br/>
 작업 중인 디렉토리를 변경한다.
 <br/>
@@ -88,6 +92,7 @@ $ cd work
 <hr/>
 
 ## mkdir (make directory)
+
 <br/>
 현재 디렉토리에 하위 디렉토리를 만든다.
 <br/>
@@ -103,6 +108,7 @@ $ mkdir test
 <hr/>
 
 ## rm (remove)
+
 <br/>
 디렉토리나 파일을 삭제한다.
 <br/>
@@ -122,6 +128,7 @@ $ rm -r test
 <hr/>
 
 ## cp (copy)
+
 <br/>
 디렉토리나 파일을 복사한다. 하위 디렉토리가 아니면 절대경로를 입력한다.
 <br/>
@@ -145,6 +152,7 @@ $ cp -r Dir1 Dir2
 <hr/>
 
 ## mv (move)
+
 <br/>
 파일의 이름이나 위치를 변경한다. 하위 디렉토리가 아니면 절대경로를 입력한다.
 <br/>
@@ -164,6 +172,7 @@ $ mv test1.txt Directory
 <hr/>
 
 ## cat (concatenate)
+
 <br/>
 파일내용을 확인한다.
 <br/>
@@ -179,6 +188,7 @@ $ cat test1
 <hr/>
 
 ## touch
+
 <br/>
 크기가 0인 새 파일을 생성한다. 이미 존재하면 생성 날짜를 지금으로 변경한다.
 <br/>
