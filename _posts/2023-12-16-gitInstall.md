@@ -4,6 +4,7 @@ title: "깃 설치 및 환경설정"
 published: true
 categories: git
 tags: [git, ssh, github]
+toc: true
 ---
 
 
