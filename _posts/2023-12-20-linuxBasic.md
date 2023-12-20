@@ -3,6 +3,7 @@ layout: single
 title: "리눅스 필수 기본 명령어 10가지"
 published: true
 categories: ubuntu
+tags: ubuntu
 ---
 
 <br/>
