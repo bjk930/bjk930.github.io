@@ -4,6 +4,7 @@ title: "리눅스 우분투 오픈JDK 설치 및 환경변수 설정"
 published: true
 categories: java
 tags: [java, ubuntu, openjdk]
+toc: true
 ---
 
 <br/>
