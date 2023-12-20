@@ -65,4 +65,6 @@ Enter passphrase (empty for no passphrase) : 비밀번호 설정
 Enter same passphrase again : 비밀번호 재입력
 
 ### 3. /home/[사용자명]/.ssh/[암호타입].pub의 내용을 복사한다.
+
 ### 4. 깃허브 Settings 메뉴에서 New SSH key를 통해 SSH key를 등록한다.
+
