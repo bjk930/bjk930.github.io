@@ -16,10 +16,10 @@ ex)
 
 <br/>
 
-1.git pull origin develop
-2.git checkout feature-A
-3.git merge develop
-4.문제요소 조정
-5.git push -u origin feature-A
+1. git pull origin develop
+2. git checkout feature-A
+3. git merge develop
+4. 문제요소 조정
+5. git push -u origin feature-A
   
 ## 방법2: 깃허브 홈페이지 pull requests의 경우, resolve conflicts 사용
